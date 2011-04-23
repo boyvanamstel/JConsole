@@ -2,7 +2,7 @@
 
 Primarily a test case for [JSLint](http://www.jslint.com/).
 
-[JConsole live example](http://boyvanamstel.github.com/jconsole/)
+[JConsole live example](http://boyvanamstel.github.com/JConsole/)
 
 ## What does it do exactly?
 

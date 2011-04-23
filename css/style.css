@@ -1,0 +1,4 @@
+body { margin: 50px; background: #002200; font-family: courier; font-size: 24px; color: #00ff00; }
+article { margin: 100px 0; }
+a { color: #FF6600; }
+a:hover { color: #00ff00; }
